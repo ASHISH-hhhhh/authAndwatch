@@ -1,0 +1,32 @@
+:root {
+  --theme: #2970ff;
+  --black: #000;
+  --white: #fff;
+  --shadow: 0px 0px 38px 38px rgba(227, 227, 227, 0.75);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+input {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
